@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Oatmeal Breakfast",
+        "meal_type": "breakfast",
+        "servings": 1,
+        "prep_time_minutes": 10,
+        "ingredients": [
+            {"ingredient_name": "Oats", "quantity": 50, "unit": "g"},
+            {"ingredient_name": "Milk", "quantity": 200, "unit": "ml"},
+            {"ingredient_name": "Banana", "quantity": 1, "unit": "count"}
+        ]
+    },
+    {
+        "name": "Chicken Salad",
+        "meal_type": "lunch",
+        "servings": 1,
+        "prep_time_minutes": 15,
+        "ingredients": [
+            {"ingredient_name": "Chicken Breast", "quantity": 150, "unit": "g"},
+            {"ingredient_name": "Lettuce", "quantity": 100, "unit": "g"},
+            {"ingredient_name": "Tomato", "quantity": 1, "unit": "count"}
+        ]
+    },
+    {
+        "name": "Pasta Dinner",
+        "meal_type": "dinner",
+        "servings": 1,
+        "prep_time_minutes": 20,
+        "ingredients": [
+            {"ingredient_name": "Pasta", "quantity": 100, "unit": "g"},
+            {"ingredient_name": "Tomato Sauce", "quantity": 200, "unit": "ml"},
+            {"ingredient_name": "Cheese", "quantity": 50, "unit": "g"}
+        ]
+    }
+]

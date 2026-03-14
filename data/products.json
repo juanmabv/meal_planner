@@ -1,0 +1,101 @@
+[
+    {
+        "barcode": "123456",
+        "name": "Oats",
+        "category": "grains",
+        "unit_type": "weight",
+        "package_quantity": 1,
+        "package_unit": "kg",
+        "serving_size": 0.05,
+        "serving_unit": "kg",
+        "price": 2.5
+    },
+    {
+        "barcode": "123457",
+        "name": "Milk",
+        "category": "dairy",
+        "unit_type": "volume",
+        "package_quantity": 1,
+        "package_unit": "l",
+        "serving_size": 0.25,
+        "serving_unit": "l",
+        "price": 1.2
+    },
+    {
+        "barcode": "123458",
+        "name": "Banana",
+        "category": "fruit",
+        "unit_type": "count",
+        "package_quantity": 6,
+        "package_unit": "count",
+        "serving_size": 1,
+        "serving_unit": "count",
+        "price": 2.0
+    },
+    {
+        "barcode": "123459",
+        "name": "Chicken Breast",
+        "category": "meat",
+        "unit_type": "weight",
+        "package_quantity": 1,
+        "package_unit": "kg",
+        "serving_size": 0.15,
+        "serving_unit": "kg",
+        "price": 8.0
+    },
+    {
+        "barcode": "123460",
+        "name": "Lettuce",
+        "category": "vegetable",
+        "unit_type": "weight",
+        "package_quantity": 0.5,
+        "package_unit": "kg",
+        "serving_size": 0.1,
+        "serving_unit": "kg",
+        "price": 1.5
+    },
+    {
+        "barcode": "123461",
+        "name": "Tomato",
+        "category": "vegetable",
+        "unit_type": "count",
+        "package_quantity": 5,
+        "package_unit": "count",
+        "serving_size": 1,
+        "serving_unit": "count",
+        "price": 3.0
+    },
+    {
+        "barcode": "123462",
+        "name": "Pasta",
+        "category": "grains",
+        "unit_type": "weight",
+        "package_quantity": 0.5,
+        "package_unit": "kg",
+        "serving_size": 0.1,
+        "serving_unit": "kg",
+        "price": 1.0
+    },
+    {
+        "barcode": "123463",
+        "name": "Tomato Sauce",
+        "category": "pantry",
+        "unit_type": "volume",
+        "package_quantity": 0.5,
+        "package_unit": "l",
+        "serving_size": 0.2,
+        "serving_unit": "l",
+        "price": 2.0
+    },
+    {
+        "barcode": "123464",
+        "name": "Cheese",
+        "category": "dairy",
+        "unit_type": "weight",
+        "package_quantity": 0.2,
+        "package_unit": "kg",
+        "serving_size": 0.05,
+        "serving_unit": "kg",
+        "price": 4.0
+    }
+]

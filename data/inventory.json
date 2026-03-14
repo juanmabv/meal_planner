@@ -1,0 +1,38 @@
+[
+    {
+        "barcode": "123456",
+        "quantity": 0.2,
+        "unit": "kg",
+        "purchase_date": "2026-03-10T10:00:00",
+        "opened_date": "2026-03-11T10:00:00",
+        "expiration_date": "2026-04-10T10:00:00",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123457",
+        "quantity": 0.5,
+        "unit": "l",
+        "purchase_date": "2026-03-12T10:00:00",
+        "opened_date": null,
+        "expiration_date": "2026-03-20T10:00:00",
+        "storage_location": "fridge"
+    },
+    {
+        "barcode": "123458",
+        "quantity": 3,
+        "unit": "count",
+        "purchase_date": "2026-03-13T10:00:00",
+        "opened_date": null,
+        "expiration_date": "2026-03-16T10:00:00",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123459",
+        "quantity": 0.3,
+        "unit": "kg",
+        "purchase_date": "2026-03-09T10:00:00",
+        "opened_date": "2026-03-10T10:00:00",
+        "expiration_date": "2026-03-15T10:00:00",
+        "storage_location": "freezer"
+    }
+]
