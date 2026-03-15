@@ -378,6 +378,7 @@ from services.meal_planner_service import MealPlannerService
 from services.shopping_service import ShoppingService
 
 
+
 def main():
     """
     Main entry point for the meal planner application.
