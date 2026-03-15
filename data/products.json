@@ -8,7 +8,7 @@
         "package_unit": "kg",
         "serving_size": 0.05,
         "serving_unit": "kg",
-        "price": 2.5
+        "price": 3.0
     },
     {
         "barcode": "123457",
@@ -44,17 +44,6 @@
         "price": 8.0
     },
     {
-        "barcode": "123460",
-        "name": "Lettuce",
-        "category": "vegetable",
-        "unit_type": "weight",
-        "package_quantity": 0.5,
-        "package_unit": "kg",
-        "serving_size": 0.1,
-        "serving_unit": "kg",
-        "price": 1.5
-    },
-    {
         "barcode": "123461",
         "name": "Tomato",
         "category": "vegetable",
@@ -88,14 +77,36 @@
         "price": 2.0
     },
     {
-        "barcode": "123464",
-        "name": "Cheese",
-        "category": "dairy",
-        "unit_type": "weight",
-        "package_quantity": 0.2,
+        "barcode": "999999",
+        "name": "Test Product",
+        "category": "test",
+        "unit_type": "count",
+        "package_quantity": 10,
+        "package_unit": "count",
+        "serving_size": 1,
+        "serving_unit": "count",
+        "price": 0.99
+    },
+    {
+        "barcode": "1234578",
+        "name": "prueba duplicado",
+        "category": "prueba_category",
+        "unit_type": "volume",
+        "package_quantity": 3.0,
+        "package_unit": "litros",
+        "serving_size": 1.0,
+        "serving_unit": "litros",
+        "price": 5.0
+    },
+    {
+        "barcode": "1234622",
+        "name": "Pasta2",
+        "category": "grains",
+        "unit_type": "volume",
+        "package_quantity": 0.5,
         "package_unit": "kg",
-        "serving_size": 0.05,
+        "serving_size": 0.1,
         "serving_unit": "kg",
-        "price": 4.0
+        "price": 1.0
     }
 ]

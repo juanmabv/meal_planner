@@ -1,12 +1,12 @@
 [
     {
-        "barcode": "123456",
-        "quantity": 0.2,
+        "barcode": "123459",
+        "quantity": 0.3,
         "unit": "kg",
-        "purchase_date": "2026-03-10T10:00:00",
-        "opened_date": "2026-03-11T10:00:00",
-        "expiration_date": "2026-04-10T10:00:00",
-        "storage_location": "pantry"
+        "purchase_date": "2026-03-09T10:00:00",
+        "opened_date": "2026-03-10T10:00:00",
+        "expiration_date": "2026-03-15T10:00:00",
+        "storage_location": "freezer"
     },
     {
         "barcode": "123457",
@@ -27,12 +27,111 @@
         "storage_location": "pantry"
     },
     {
-        "barcode": "123459",
-        "quantity": 0.3,
+        "barcode": "123456",
+        "quantity": 0.2,
         "unit": "kg",
-        "purchase_date": "2026-03-09T10:00:00",
-        "opened_date": "2026-03-10T10:00:00",
-        "expiration_date": "2026-03-15T10:00:00",
-        "storage_location": "freezer"
+        "purchase_date": "2026-03-10T10:00:00",
+        "opened_date": "2026-03-11T10:00:00",
+        "expiration_date": "2026-04-10T10:00:00",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123456",
+        "quantity": 1.0,
+        "unit": "kg",
+        "purchase_date": "2026-03-15T13:01:42.587922",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T13:01:42.587930",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123457",
+        "quantity": 1.0,
+        "unit": "l",
+        "purchase_date": "2026-03-15T13:01:42.587943",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T13:01:42.587944",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123458",
+        "quantity": 1.0,
+        "unit": "count",
+        "purchase_date": "2026-03-15T13:01:42.587947",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T13:01:42.587948",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123457",
+        "quantity": 3.0,
+        "unit": "l",
+        "purchase_date": "2026-03-15T14:22:14.746978",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:22:14.746993",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123457",
+        "quantity": 2.0,
+        "unit": "l",
+        "purchase_date": "2026-03-15T14:26:28.516177",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:28.516192",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123456",
+        "quantity": 1.0,
+        "unit": "kg",
+        "purchase_date": "2026-03-15T14:26:58.811782",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:58.811785",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123458",
+        "quantity": 1.0,
+        "unit": "count",
+        "purchase_date": "2026-03-15T14:26:58.811803",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:58.811803",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123459",
+        "quantity": 1.0,
+        "unit": "kg",
+        "purchase_date": "2026-03-15T14:26:58.811808",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:58.811808",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123461",
+        "quantity": 1.0,
+        "unit": "count",
+        "purchase_date": "2026-03-15T14:26:58.811812",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:58.811813",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "123462",
+        "quantity": 1.0,
+        "unit": "kg",
+        "purchase_date": "2026-03-15T14:26:58.811816",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:58.811816",
+        "storage_location": "pantry"
+    },
+    {
+        "barcode": "999999",
+        "quantity": 1.0,
+        "unit": "count",
+        "purchase_date": "2026-03-15T14:26:58.811825",
+        "opened_date": null,
+        "expiration_date": "2027-03-15T14:26:58.811826",
+        "storage_location": "pantry"
     }
 ]
